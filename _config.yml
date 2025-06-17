@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Antoine Zakardjian / PhD"
+title                    : "Antoine Zakardjian"
 title_separator          : "-"
 name                     : &name "Antoine Zakardjian"
 description              : &description "3rd year PhD student at IRAP"
